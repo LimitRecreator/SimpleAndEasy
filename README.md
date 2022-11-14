@@ -1,1 +1,2 @@
-Scritpts codificados com suas instruç
+
+Scritpts codificados com suas instruções em Portugês BR
