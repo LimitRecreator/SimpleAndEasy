@@ -12,11 +12,12 @@ if install == ("N"):
 start = input("Gostaria de iniciar o kali anonsurf?(y/n): ")
 if start == ("y"):
     os.system("sudo anonsurf start")
+    os.system("anonsurf status")
 elif start == ("Y"):
     os.system("sudo anonsurf start")
+    os.system("anonsurf status")
 if start == ("n"):
     print ("Certo, quando quiser iniciar o anonsurf, basta me rodar de novo!")
 elif start == ("N"):
     print("Certo, quando quiser iniciar o anonsurf, basta me rodar de novo!")
-os.system("anonsurf status")
 print("Para desligar seu anonsurf dê o comando 'sudo anonsurf stop'")
