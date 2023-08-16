@@ -1,7 +1,7 @@
 # BR_AutomaticAnonsurf
 
 Requisitos:
-	- Anonsurf;
+	- Kali Linux OS
   
  Use: 
  	- python autoanonsurf.py
