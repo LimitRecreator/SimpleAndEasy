@@ -1,6 +1,6 @@
 import socket
 import os
-os.system('pip install keyboard')
+os.system('pip install socket')
 import keyboard
 
 tip = input("Já sabe o IP alvo?(s/n)")
