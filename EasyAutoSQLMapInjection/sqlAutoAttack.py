@@ -1,7 +1,7 @@
 import os
 
 print("SEMPRE USE UM ANONIMALIZADOR ! ! !")
-print("RECOMENDAÇÃO: use o anonsurf | para isso tem o script de instalação e execução "BR_AutoAnonsurf")
+print('RECOMENDAÇÃO: use o anonsurf | para isso tem o script de instalação e execução "BR_AutoAnonsurf"')
 
 print('''
  __                    __           
