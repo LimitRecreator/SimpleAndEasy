@@ -1,5 +1,20 @@
 import socket
 import os
+
+print('''
+ __                    __           
+(_  .  _   _  |  _  / |_   _   _    
+__) | ||| |_) | (- /  |__ (_| _) \/ 
+          |                      /  
+                           __                            
+|_     .   |   .  _  . |_ |__)  _  _  _  _  _  |_  _   _ 
+|_) \/ .   |__ | ||| | |_ | \  (- (_ |  (- (_| |_ (_) |  
+    /                                                    
+''')
+
+print("LEIA O QUE O TERMINAL TE DIZ ! ! !")
+
+
 os.system('pip install socket')
 import keyboard
 
