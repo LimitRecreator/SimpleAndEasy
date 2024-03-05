@@ -1,4 +1,21 @@
 import os
+
+print('''
+ __                    __           
+(_  .  _   _  |  _  / |_   _   _    
+__) | ||| |_) | (- /  |__ (_| _) \/ 
+          |                      /  
+                           __                            
+|_     .   |   .  _  . |_ |__)  _  _  _  _  _  |_  _   _ 
+|_) \/ .   |__ | ||| | |_ | \  (- (_ |  (- (_| |_ (_) |  
+    /                                                    
+''')
+
+print("LEIA O QUE O TERMINAL TE DIZ ! ! !")
+
+
+
+
 os.system("sudo apt update && sudo apt upgrade")
 install = input("Já possuí o Kali-Anonsurf instalado?(y/n): ")
 if install == ("n"):
